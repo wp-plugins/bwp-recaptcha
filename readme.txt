@@ -27,7 +27,7 @@ The installation of this plugin will require additional work if you don't use `c
 
 == Installation ==
 
-1. Upload the bwp-recaptcha folder to the /wp-content/plugins/ directory
+1. Upload the `bwp-recaptcha` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the Plugins menu in WordPress. After activation, you should see a menu of this plugin on your left. If you can not locate it, click on Settings under the plugin's name.
 3. If you don't use `comment_form()` to print the comment form, please read [this usage note](http://betterwp.net/wordpress-plugins/bwp-recaptcha/#usage).
 4. Configure the plugin, and add your API keys. You must have API keys for the current domain for this plugin to work.
