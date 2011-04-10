@@ -23,6 +23,10 @@ In the 21th century, spamming could be one of the most annoying problems for a w
 * WordPress Multi-site compatible (not tested with WPMU)
 * And more...
 
+**Languages**
+
+* This plugin is currently available only in English. Please [help translate](http://betterwp.net/wordpress-tips/create-pot-file-using-poedit/) it!
+
 The installation of this plugin will require additional work if you don't use `comment_form()` by default. Please read this plugin's [usage note](http://betterwp.net/wordpress-plugins/bwp-recaptcha/#usage) for more information.
 
 == Installation ==
