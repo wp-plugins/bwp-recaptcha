@@ -10,7 +10,7 @@ This plugin utilizes reCAPTCHA (with support for Akismet) to help your blog stay
 
 == Description ==
 
-Support for this plugin has been moved to [the BWP Community](http://betterwp.net/community/)!
+**Support for this plugin has been moved to [the BWP Community](http://betterwp.net/community/)!**
 
 In the 21th century, spamming could be one of the most annoying problems for a website. Especially if you use some publishing platforms like WordPress, your blog WILL be spammed and no default methods will save you from such nightmare. This plugin utilizes the popular anti-spam library, reCAPTCHA, to help your blog stay clear of spams (especially when you integrate it with Akismet). Unlike the current WP-reCAPTCHA plugin, this one has a different approach and allows you to customize how the captcha looks using CSS.
 
